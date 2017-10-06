@@ -3,6 +3,6 @@ package com.test;
 public class A {
 	private int a;
 
-	private String str = "s";
+	private String str = "sss";
 
 }
