@@ -1,6 +1,7 @@
 package com.test;
 
 public class A {
-   private int num1;
-   private int num2;
+   private int num;
+   private String str = "s";
+ 
 }
