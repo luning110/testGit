@@ -6,5 +6,9 @@ public class A {
  
    private double num2;
 
+
    private int d;
+
+   private String s = "abc";
+
 }
