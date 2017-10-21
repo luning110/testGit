@@ -2,5 +2,5 @@ package com.test;
 
 public class B {
 
-	private int ab;
+	private int abc;
 }
