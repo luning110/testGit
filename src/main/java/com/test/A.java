@@ -5,10 +5,9 @@ public class A {
    private String str = "String_master";
  
    private double num2;
-
-   private int bbb;
    
    private boolean bol = false;
 
    private String s;
+   
 }
