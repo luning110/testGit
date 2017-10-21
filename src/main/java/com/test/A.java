@@ -2,7 +2,7 @@ package com.test;
 
 public class A {
 
-   private int num;
-   private String str = "String";
- 
+   private int num1;
+   private String str = "String_master";
+
 }
