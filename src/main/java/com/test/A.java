@@ -7,8 +7,4 @@ public class A {
    private double num2;
 
    private int d;
-   
-   private boolean bol = false;
-
-
 }
