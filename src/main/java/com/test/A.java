@@ -6,7 +6,7 @@ public class A {
  
    private double num2;
 
-   private int a;
+   private int d;
    
    private boolean bol = false;
 
