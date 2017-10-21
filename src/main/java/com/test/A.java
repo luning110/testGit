@@ -4,4 +4,5 @@ public class A {
    private int num1;
    private String str = "String_master";
  
+   private double num2;
 }
