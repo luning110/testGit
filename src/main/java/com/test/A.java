@@ -5,9 +5,8 @@ public class A {
    private String str = "String_master";
  
    private double num2;
-
-
-   private int d;
+   
+   private boolean bol = false;
 
    private String s = "abc";
 
