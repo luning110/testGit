@@ -5,4 +5,8 @@ public class A {
    private String str = "String_master";
  
    private double num2;
+
+   
+   private boolean bol = false;
+
 }
