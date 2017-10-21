@@ -8,6 +8,6 @@ public class A {
    
    private boolean bol = false;
 
-   private String s = "abcd";
+   private String s = "abc";
 
 }
