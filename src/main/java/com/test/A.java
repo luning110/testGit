@@ -10,5 +10,5 @@ public class A {
    
    private boolean bol = false;
 
-
+   private String s;
 }
