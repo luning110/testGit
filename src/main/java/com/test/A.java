@@ -2,8 +2,9 @@ package com.test;
 
 public class A {
    private int num1;
+
    private String str = "String_master_2";
- 
+
    private double num2;
    
    private boolean bol = false;
